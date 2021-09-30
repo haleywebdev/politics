@@ -1,0 +1,30 @@
+.pageHeader {
+    text-align: left;
+    font: 40px bold;
+}
+
+.mainrep {
+    text-align: left;
+}
+
+.img {
+    margin: 2%;
+}
+
+.name {
+    font: 30px bold;
+}
+
+.district {
+    font: 20px;
+}
+
+.committee {
+    display: flex;
+    flex-direction: column;
+}
+
+.enactments {
+    display: flex;
+    border: none;
+}
